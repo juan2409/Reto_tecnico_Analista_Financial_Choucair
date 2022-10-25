@@ -13,4 +13,4 @@ Feature: Automatize Utest register form
       |<strEmail>|<strPassword>|<strValidation>|
     Examples:
       | strFname | strLname | strEmail      | strLanguage | strCity | strZip | strCountry | strComputer | strVersion | strClanguage | strMobile | strMobilem | strMobilev | strPassword   | strValidation                                                                                       |
-      | Juan     | Camacho  | juan@test.com | spanish     | Bogotá  | 110121 | Colombia   | Windows     | Windows 11 | English      | Samsung   | Galaxy S10 | Android 12 | Choucair2022* | We're so excited for you to get started on uTest, but first you need to confirm your email address. |
+      | Juan     | Camacho  | juan2@test.com | spanish     | Bogotá  | 110121 | Colombia   | Windows     | Windows 11 | English      | Samsung   | Galaxy S10 | Android 12 | Choucair2022* | We're so excited for you to get started on uTest, but first you need to confirm your email address. |
